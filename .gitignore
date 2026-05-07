@@ -1,0 +1,21 @@
+# Firebase & Secrets (CRITICAL)
+.streamlit/
+firebase-sdk.json
+.env
+
+# Python Virtual Environments
+venv/
+.venv/
+env/
+
+# Python caching
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# User-specific Streamlit files
+.streamlit/config.toml
